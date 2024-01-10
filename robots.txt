@@ -1,0 +1,5 @@
+# robots.txt
+User-Agent: *
+Disallow: /date/*
+Sitemap: https://www.mcbbb.top/sitemap.xml
+Sitemap: http://www.mcbbb.top/sitemap.xml
